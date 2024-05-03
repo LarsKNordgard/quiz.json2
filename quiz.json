@@ -1,0 +1,33 @@
+[
+  {
+      "kategori": "Digitalt Bilde",
+      "spørsmål": "Hva er oppløsningen til et digitalt bilde?",
+      "riktigSvar": "Antall piksler"
+  },
+  {
+      "kategori": "Digitalt Bilde",
+      "spørsmål": "Hva er en vanlig filtype for et bilde med tap?",
+      "riktigSvar": "JPEG"
+  },
+  {
+      "kategori": "Lyd",
+      "spørsmål": "Hva er en vanlig bithastighet for digital lyd?",
+      "riktigSvar": "44.1 kHz"
+  },
+  {
+      "kategori": "Lyd",
+      "spørsmål": "Hva er en vanlig form for komprimering for lydfiler?",
+      "riktigSvar": "MP3"
+  },
+
+  {
+      "kategori": "Video",
+      "spørsmål": "Hva er en vanlig oppløsning for HD-video?",
+      "riktigSvar": "1920x1080"
+  },
+  {
+      "kategori": "Lyd",
+      "spørsmål": "Hva er en vanlig sample rate for digital lyd?",
+      "riktigSvar": "48 kHz"
+  }
+]
